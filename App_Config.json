@@ -1,0 +1,14 @@
+{
+    "song_commands": ["@p", "#p", "/p", "@play", "#play", "/play"],
+    "queue_commands": ["@queue", "/queue", "#queue", "@q", "/q", "#q"],
+    "clear_commands": ["@clear", "/clear", "#clear", "@c", "/c", "#c"],
+    "timedelay": 2,
+    "follow_only_req": true,
+    "invite_mode": {
+        "message_on": true,
+        "message_only": false,
+        "invite_only": true
+    },
+    "use_join": true,
+    "use_msg": true
+}
