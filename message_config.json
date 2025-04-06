@@ -30,5 +30,14 @@
             "🎶 On deck:\n"
         ],
         "no_song_in_queue": "\uD83C\uDFB6 There are no songs in the queue."
-    }
+    },
+    "Welcome_Message": {
+        "message": [
+            "Hey {name}, welcome aboard! 🎉 Join the vibe, and don’t forget to clear the 🎟 from your profile! 🌟",
+            "Welcome, {name}! 🎉 Dive in, vibe with the crew, and wipe the 🎟 from your profile! 💫",
+            "Glad to have you, {name}! 🎉 Let’s vibe together—remember to remove the 🎟 from your profile! 🌟",
+            "Welcome, {name}! 🎉 Jump in, vibe with us, and swipe the 🎟 off your profile! 🔥",
+            "{name}, we’re excited you’re here! 🎉 Let’s vibe—don’t forget to clean the 🎟 from your profile! 💫"
+        ]
+        }
 }
